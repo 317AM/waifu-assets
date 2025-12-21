@@ -1,0 +1,15 @@
+{
+  "id": "misato",
+  "name": "Misato Katsuragi",
+  "source": "remote",
+  "remoteBase": "https://cdn.jsdelivr.net/gh/317AM/waifu-assets@main/Misato",
+  "preview": "preview.jpg",
+  "manifest": "pack/manifest.json",
+  "chime": "audio/misato-chime.wav",
+  "theme": "pack/theme.json",
+  "featured": {
+    "title": "Misato",
+    "description": "Official Waifu - pack of Misato Katsuragi from Neon Genesis Evangelion."
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "themes": [
+    {
+      "id": "default",
+      "name": "Default",
+      "accent": "#ff66cc",
+      "background": "waifu-bg.jpg"
+    }
+  ]
+}

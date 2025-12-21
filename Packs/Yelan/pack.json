@@ -1,0 +1,30 @@
+{
+  "id": "yelan",
+  "name": "Yelan",
+  "source": "remote",
+  "remoteBase": "https://cdn.jsdelivr.net/gh/317AM/waifu-assets@main/Yelan",
+  "preview": "preview.jpg",
+  "manifest": "pack/manifest.json",
+  "chimes": [
+    "audio/yelan-chime1.wav",
+    "audio/yelan-chime2.wav",
+    "audio/yelan-chime3.wav",
+    "audio/yelan-chime4.wav",
+    "audio/yelan-chime5.wav",
+    "audio/yelan-chime6.wav",
+    "audio/yelan-chime7.wav",
+    "audio/yelan-chime8.wav",
+    "audio/yelan-chime9.wav",
+    "audio/yelan-chime10.wav",
+    "audio/yelan-chime11.wav",
+    "audio/yelan-chime12.wav",
+    "audio/yelan-chime13.wav",
+    "audio/yelan-chime14.wav"
+  ],
+  "theme": "pack/theme.json",
+  "featured": {
+    "title": "Yelan",
+    "description": "Official Waifu - pack of Yelan from Genshin Impact."
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "themes": [
+    {
+      "id": "default",
+      "name": "Default",
+      "accent": "#2a9bdf",
+      "background": "yelan-bg.jpg"
+    }
+  ]
+}

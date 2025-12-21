@@ -1,0 +1,10 @@
+{
+  "themes": [
+    {
+      "id": "default",
+      "name": "Default",
+      "accent": "#c06bff",
+      "background": "misato-bg.jpg"
+    }
+  ]
+}
